@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+}
+.box-bg{
+    background: linear-gradient(rgb(135, 255, 135),rgb(133, 219, 253));
+}
+.font-20{
+    font-size: 18px;
+}
+.box{
+    border: 1px solid rgb(0, 153, 255);
+}
+.flx .box{
+    border: 1px solid black;
+}
+.flx .box-bg{
+    background: linear-gradient(orange,rgb(255, 0, 98));
+}
+.box2-bg{
+    background: linear-gradient(orange,rgb(255, 0, 98));
+}
